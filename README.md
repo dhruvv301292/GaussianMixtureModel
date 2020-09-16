@@ -1,5 +1,5 @@
 # GaussianMixtureModel
-A numPy based Gaussian Mixture Model for clustering data
+A numPy based Gaussian Mixture Model for clustering data according to the normal distribution it comes from
 
 Data is taken from 3 different Normal Distributions with different means and standard deviations. 
 
